@@ -54,7 +54,7 @@ export  const  Signup=()=> {
             placeholder="password"
           />
         </FormControl>
-        <Button sx={{ mt: 1 /* margin top */ }}>Log in</Button>
+        <Button sx={{ mt: 1 /* margin top */ }}>Log In</Button>
         <Typography
           endDecorator={<Link href="/sign-up">Sign up</Link>}
           sx={{ fontSize: 'sm', alignSelf: 'center' }}
