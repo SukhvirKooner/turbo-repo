@@ -42,7 +42,6 @@ function ModeToggle() {
 export  const  Signup=()=> {
   return (
     <main>
-      <ModeToggle />
       <CssBaseline />
       <Sheet
         sx={{
